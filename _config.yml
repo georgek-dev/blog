@@ -1,3 +1,6 @@
 remote_theme: pages-themes/leap-day
 title: Archventure
-description: A blog about Linux.
+description: A blog about Linux, but mainly Arch.
+baseurl: /blog
+url: https://georgek-dev.github.io
+permalink: /:year/:month/:day/:title/
